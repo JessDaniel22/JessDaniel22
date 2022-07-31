@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi everyone 😊, my name is Jessica (pronouns: she/her 🧚‍♀️). I am a first year undergraduate studying computer systems engineering. I previously came out of university studying chemistry. During the year of learning this course, it motivated me more and more to further develop my understanding of the tech industry. In my first semester I was introduced to python and subsequently continued my research with other programming languages. I'm currently learning java via an online course. This is one of the reasons why I joined Github. I want to impliment my knowledge on projects and receieve help from experienced developers. I hope one day I become like one of you guys 😄!! I would love to recieve help from other new comers and experienced developers on how I can improve my skills as well as excel in this platform. I am also very interested in AI and robotics as well as creating beginner projects (for now!😉). My email is jessica.daniel@warwick.ac.uk. Please feel free to email me with any advice or support you have for me. It would honestly help me a lot. Thank you 🙏. I hope to hear from you guys soon.  
+
+
+
+
 
 <!--
 **JessDaniel22/JessDaniel22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
